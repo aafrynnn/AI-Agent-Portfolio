@@ -1,4 +1,3 @@
-```Markdown
 # 🧠 AI Agent Portfolio
 
 Welcome to my collection of intelligent AI agents designed to streamline research, web analysis, and content generation. As a Data Scientist specializing in Radiology AI & Imaging at Penn Medicine, I've developed these tools to bridge the gap between complex data processing and practical, everyday applications.
@@ -90,5 +89,4 @@ Interested in custom AI agents or collaborating on healthcare AI projects? I spe
 - **Research and analysis tools**
 - **Custom NLP solutions**
 
-[📬 Contact me](mailto:afreensadia1999@gmail.com) or [DM me on LinkedIn](https://www.linkedin.com/in/sadia-afreen-ms-96889b151)
-```
+[📬 Contact me](mailto:afreensadia1999@gmail.com) or [DM me on LinkedIn](https://www.linkedin.com/in/sadia-afreen-ms-96889b151
